@@ -1,0 +1,17 @@
+{
+    "not_dead": "You don't need medical assistance right now!",
+    "insufficient_funds": "You don't have enough money for the EMS service! Cost: $%s",
+    "ems_available": "There are %s EMS personnel on duty. Please wait for them!",
+    "ems_called": "Emergency medical services have been dispatched to your location!",
+    "ems_arrived": "The paramedic has arrived and is treating you...",
+    "revived": "You have been successfully revived by the paramedic!",
+    "blacklisted_job": "Your job prevents you from using auto EMS services!",
+    "blacklisted_location": "You cannot call auto EMS in this area!",
+    "max_active": "Too many emergency calls at this time. Please try again later!",
+    "on_cooldown": "You must wait before calling EMS again! Time remaining: %s seconds",
+    "ems_busy": "All auto EMS units are currently busy. Please try again later!",
+    "ems_timeout": "The paramedic could not reach you in time!",
+    "being_revived": "Being revived...",
+    "auto_ems": "Auto EMS",
+    "ems_teleported": "The paramedic has taken a shortcut to reach you faster!"
+}
